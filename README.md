@@ -7,6 +7,7 @@
 
 ![alt text](example.png "Example of photo gallery utilizing Bootstrap")
 
+Example of photo gallery utilizing Bootstrap
 ##### Steps:
   1. Clone to repo to get code
 
