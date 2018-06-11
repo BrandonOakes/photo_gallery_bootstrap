@@ -5,7 +5,7 @@
 #### Make a photo gallery with bootstrap
 
 
-Example of photo gallery utilizing Bootstrap
+![alt text](screenshots/example.png "Example of photo gallery utilizing Bootstrap")
 
 ##### Steps:
   1. Clone to repo to get code
